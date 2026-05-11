@@ -4,7 +4,7 @@ C#.Net을 사용하여 Client와 Server를 활용한 Tcp/IP 채팅 프로그램�
 ![TestCase](https://github.com/keesung98/ChatClient-Server/assets/70887592/acd4f4f8-1f52-4e8c-912a-1d11267e955a)
 
 ---
-//Test
+//Main
 ## Server
 
 ```cpp
