@@ -24,7 +24,7 @@ namespace ChatServer
             InitializeComponent();
         }
 
-        //IP & Port numbers
+        //IP & Port numbers  test
         TcpListener chatServer = new TcpListener(IPAddress.Parse("1.123.000.000"), 5555);//Input IP & Port
         public static ArrayList clientSocketArray = new ArrayList();
 
